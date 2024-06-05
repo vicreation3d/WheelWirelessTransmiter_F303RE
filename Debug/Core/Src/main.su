@@ -1,0 +1,10 @@
+../Core/Src/main.c:86:6:HAL_TIM_IC_CaptureCallback	16	static
+../Core/Src/main.c:105:5:main	24	static
+../Core/Src/main.c:204:6:SystemClock_Config	160	static
+../Core/Src/main.c:249:6:convert16to8	24	static
+../Core/Src/main.c:256:6:convert8to16	24	static
+../Core/Src/main.c:262:10:map_position_to_sbus	40	static
+../Core/Src/main.c:276:10:map_pwm_to_sbus	40	static
+../Core/Src/main.c:290:7:CalculateAngularSpeed	32	static
+../Core/Src/main.c:311:7:map	32	static
+../Core/Src/main.c:321:6:Error_Handler	4	static,ignoring_inline_asm

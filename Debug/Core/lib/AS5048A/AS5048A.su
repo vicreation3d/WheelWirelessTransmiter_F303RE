@@ -1,0 +1,4 @@
+../Core/lib/AS5048A/AS5048A.c:17:6:AS5048A_Init	16	static
+../Core/lib/AS5048A/AS5048A.c:24:7:AS5048A_GetAngle	8	static
+../Core/lib/AS5048A/AS5048A.c:31:7:AS5048A_GetAngleDeg	8	static
+../Core/lib/AS5048A/AS5048A.c:38:10:AS5048A_GetRaw	32	static

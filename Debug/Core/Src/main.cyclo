@@ -1,0 +1,10 @@
+../Core/Src/main.c:86:6:HAL_TIM_IC_CaptureCallback	3
+../Core/Src/main.c:105:5:main	8
+../Core/Src/main.c:204:6:SystemClock_Config	4
+../Core/Src/main.c:249:6:convert16to8	2
+../Core/Src/main.c:256:6:convert8to16	2
+../Core/Src/main.c:262:10:map_position_to_sbus	1
+../Core/Src/main.c:276:10:map_pwm_to_sbus	1
+../Core/Src/main.c:290:7:CalculateAngularSpeed	4
+../Core/Src/main.c:311:7:map	1
+../Core/Src/main.c:321:6:Error_Handler	1
